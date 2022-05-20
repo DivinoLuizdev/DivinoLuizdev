@@ -1,4 +1,4 @@
-### Ola ! sou o Divino Software Developer JAVA | HTML | CSS | JavaScript 👋
+### Ola ! sou o Divino Software Developer  👋
   
  <div align="center">
   <a href="https://github.com/juniorwar360">
