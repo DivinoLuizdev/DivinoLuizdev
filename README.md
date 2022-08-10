@@ -32,12 +32,11 @@
   ###
 
 <div> 
- <a href="https://www.linkedin.com/in/amanda-rodrigues-3b2a9b1b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/mands_Ketley" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
- <a href = "mailto:amandaketley.akrc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+ <a href="https://www.linkedin.com/in/divino-luiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/junior_war/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
+ <a href = "mailto:juniorwar360@mail.com.br"><img src="https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   
-![Snake animation](https://github.com/AmandaKetley/AmandaKetley/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 </div>
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=150&section=footer&color=gradient&customColorList=7)
