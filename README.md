@@ -6,10 +6,7 @@
 
  Hey!👩‍💻📚🎮💡
 
-<div>
-  <a href="https://github.com/juniorwar360">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juniorwar360&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorwar360&layout=default&langs_count=7&theme=radical"/>
+ 
 </div>
  
 <div>
