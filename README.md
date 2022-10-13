@@ -5,9 +5,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=150&color=gradient&customColorList=7)
 
  Hey!👩‍💻📚🎮💡
-
- 
+<div>
+  <a href="https://github.com/juniorwar360">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorwar360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsoonMendees&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+ 
+ 
  
 <div>
   
