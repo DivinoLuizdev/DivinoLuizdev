@@ -2,7 +2,7 @@
   
  
 
-![header](https://capsule-render.vercel.app/api?type=Waving&height=150&color=gradient&customColorList=7)
+ 
 
  Hey!👩‍💻📚🎮💡
 <div>
@@ -46,7 +46,6 @@
   
  
 </div>
-  
-![header](https://capsule-render.vercel.app/api?type=Waving&height=150&section=footer&color=gradient&customColorList=7)
+   
  
  
