@@ -3,47 +3,64 @@
  
   
  
+### Hello world 👋
+ <br> 
 
- Hey!👩‍💻📚🎮💡
 <div>
-  <a href="https://github.com/juniorwar360">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorwar360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsoonMendees&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+  <a href="mailto:divinoluizdev@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/divino-luiz/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://divinoluizdev.netlify.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="" />
+  </a>
+</div <br><br>
+
  
+
+Olá meu nome e  Divino Luiz.
+
+ 
+ 🌱 Desenvolvedor Full Stack 
+ - Java 
+ - Angular
+ <br><br>
+
  
  
 <div>
   
   ### Skills:
    
-   <img align="center" alt="Rafa-Js"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-   <img align="center" alt="Rafa-Js"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />   
-   <img align="center" alt="Rafa-Js"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+   <img align="center"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+    
+   <img align="center"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt=" Divino-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   
-   <img align="center" alt="Rafa-Js"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-   <img align="center" alt="Rafa-Js"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/         <img align="center" alt="Rafa-Js"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-
-     
+<!--    <img align="center"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+   <img align="center"   height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> -->
+        
+  <img align="center" alt="Divino-Node" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt="Divino-py" height="30"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
   
    
    ### Tools:
-   <img align="center" alt="Rafa-Js"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />    
-   <img align="center" alt="Rafa-Js"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+   <img align="center"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />    
+   <img align="center"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
 
 </div>
+  <br><br> 
   
-  ###
-
-<div> 
- <a href="https://www.linkedin.com/in/divino-luiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/junior_war/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
- <a href = "mailto:juniorwar360@mail.com.br"><img src="https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-  
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivinoLuizdev&show_icons=true&theme=dark">
  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsoonMendees&layout=compact&langs_count=16&theme=dark"/>
 </div>
-   
+ 
+
+ 
  
  
