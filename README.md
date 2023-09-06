@@ -53,12 +53,11 @@ Olá meu nome e  Divino Luiz.
 
 </div>
   <br><br> 
-  
+<!--  
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivinoLuizdev&show_icons=true&theme=dark">
- 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivinoLuizdev&show_icons=true&theme=dark">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsoonMendees&layout=compact&langs_count=16&theme=dark"/>
-</div>
+</div>-->
  
 
  
