@@ -30,8 +30,7 @@ Sou **Desenvolvedor Full Stack** com foco em **automação de processos**, **des
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40px"/>
-<img src="https://img.shields.io/badge/H2-Database-blue?style=flat-square" height="25px"/>
- 
+<img src="https://img.shields.io/badge/H2-Database-blue?style=flat-square" height="25px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="25px"/>
             
           
