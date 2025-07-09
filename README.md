@@ -1,65 +1,85 @@
- 
-  
- 
-  
- 
-### Hello world 👋
- <br> 
+# 👋 Olá, eu sou o Divino Luiz!
 
-<div>
-  <a href="mailto:divinoluizdev@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/divino-luiz/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://divinoluiz.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="" />
-  </a>
-</div <br><br>
+Sou **Desenvolvedor Full Stack** com foco em **automação de processos**, **desenvolvimento web** e **testes de software**. Tenho experiência sólida com **UiPath, Python, Power Automate, Angular, Cypress e Selenium**, criando soluções que otimizam processos, reduzem erros e entregam valor real ao negócio.
 
- 
+---
 
-Olá meu nome e  Divino Luiz.
+## 📫 Contato
 
- 
- 🌱 Desenvolvedor Full Stack 
- - Java 
- - Angular
- <br><br>
+[![Outlook](https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:divinoluizdev@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divino-luiz/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://divinoluiz.netlify.app/)
 
- 
- 
-<div>
-  
-  ### Skills:
-   
-   <img align="center"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-    
-   <img align="center"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt=" Divino-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-  
-<!--    <img align="center"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-   <img align="center"   height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> -->
-        
-  <img align="center" alt="Divino-Node" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Divino-py" height="30"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
-  
-   
-   ### Tools:
-   <img align="center"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />    
-   <img align="center"    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+---
 
+## 🧠 Tecnologias e Ferramentas
 
+**Linguagens:**  
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+
+**Front-end:**  
+![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)  
+HTML, CSS, SCSS, Bootstrap
+
+**Banco de Dados:**  
+PostgreSQL, SQL Server, MySQL, SQLite, H2
+
+**Testes:**  
+Cypress, Selenium
+
+**Automação e Integração:**  
+UiPath, Power Automate, BotCity
+
+**Metodologias:**  
+Scrumban (Scrum + Kanban)
+
+---
+
+## 💼 Experiência
+
+**🔹 Analista de RPA – Alianzo** *(Jul 2024 – Mar 2025)*  
+- Desenvolvimento de automações com **Python** e **Power Automate**  
+- Integração de sistemas, mapeamento de processos e suporte técnico  
+- Identificação de melhorias junto a clientes
+
+**🔸 Desenvolvedor RPA – IEL (Instituto Euvaldo Lodi - GO)** *(Jul 2022 – Jul 2024)*  
+- Desenvolvimento com **UiPath**  
+- Otimização de automações e arquitetura de fluxos complexos  
+- Atendimento direto ao cliente para levantamento de requisitos
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Superior em Análise e Desenvolvimento de Sistemas**  
+SENAC Goiás – Fev 2021 a Jul 2023
+
+---
+
+## 📜 Certificações
+
+- Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!  
+- Python Básico ao Avançado + RPA + Projetos Reais  
+- Python Basics – Introdução e Mão na Massa  
+- RPA with Python and BotCity – Build and Manage Automations  
+- Cypress Express  
+- Javascript para QAs  
+- Introdução ao Hacking e Pentest 2.0  
+- GFT Start 5  
+- NTT DATA – Diversidade em Tech  
+- Comunicação e Oratória
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DivinoLuizdev&show_icons=true&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivinoLuizdev&layout=compact&langs_count=8&theme=dark" />
 </div>
-  <br><br> 
-<!--  
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivinoLuizdev&show_icons=true&theme=dark">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsoonMendees&layout=compact&langs_count=16&theme=dark"/>
-</div>-->
- 
 
- 
- 
- 
+---
