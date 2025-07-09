@@ -15,31 +15,37 @@ Sou **Desenvolvedor Full Stack** com foco em **automação de processos**, **des
 ## 🧠 Tecnologias e Ferramentas
 
 **Linguagens:**  
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)  
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40px"/>
 
 **Front-end:**  
-![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)  
-HTML, CSS, SCSS, Bootstrap
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40px"/>
 
 **Banco de Dados:**  
-PostgreSQL, SQL Server, MySQL, SQLite, H2
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40px"/>
+<img src="https://img.shields.io/badge/H2-Database-blue?style=flat-square" height="25px"/>
 
 **Testes:**  
-Cypress, Selenium
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="25px"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" height="25px"/>
 
 **Automação e Integração:**  
-UiPath, Power Automate, BotCity
+<img src="https://img.shields.io/badge/UiPath-0052CC?style=flat-square&logo=uipath&logoColor=white" height="25px"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=flat-square&logo=power-automate&logoColor=white" height="25px"/>
+<img src="https://img.shields.io/badge/BotCity-black?style=flat-square" height="25px"/>
 
 **Metodologias:**  
 Scrumban (Scrum + Kanban)
 
 ---
-
- 
 
 ## 🎓 Formação Acadêmica
 
