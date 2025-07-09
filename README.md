@@ -56,16 +56,17 @@ SENAC Goiás – Fev 2021 a Jul 2023
 
 ## 📜 Certificações
 
-- Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!  
-- Python Básico ao Avançado + RPA + Projetos Reais  
-- Python Basics – Introdução e Mão na Massa  
-- RPA with Python and BotCity – Build and Manage Automations  
-- Cypress Express  
-- Javascript para QAs  
-- Introdução ao Hacking e Pentest 2.0  
-- GFT Start 5  
-- NTT DATA – Diversidade em Tech  
-- Comunicação e Oratória
+- [Python Basics – Introdução e Mão na Massa](https://www.udemy.com/certificate/UC-ca51c6d6-77cf-4d72-8010-afb12b315e65/)
+- [Python Básico ao Avançado + RPA + Projetos Reais](https://www.udemy.com/certificate/UC-94441979-20fa-4308-b71d-6a92bbf2200f/)
+- [RPA with Python and BotCity – Build and Manage Automations](https://certificate.botcity.dev/verify/bb0f53465744)
+- [JavaScript para QAs (curso)](https://www.udemy.com/course/javascript-para-qas/?couponCode=ST21MT61124)
+- [Cypress eXpress](https://www.udemy.com/certificate/UC-68b43608-47b1-4295-898a-a5edf1cd6f6b/)
+- [Introdução ao Hacking e Pentest 2.0](https://solyd.com.br/verificar/6E5pzdN6LT/)
+- [Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!](https://www.udemy.com/certificate/UC-3598e592-6e37-4e9e-b18d-becbb5c6ebdc/)
+- [GFT Start 5 (DIO)](https://www.dio.me/certificate/8041542C/share)
+- [NTT DATA – Diversidade em Tech (DIO)](https://www.dio.me/certificate/50057176/share)
+- [Comunicação e Oratória (Conquer)](https://www.conquerplus.com.br/certificates/79605fc3-4a25-46c1-aec3-3c29ac2bc266?enrollment)
+
 
 ---
 
