@@ -8,7 +8,6 @@ Sou **Desenvolvedor Full Stack** com foco em **automação de processos**, **des
 
 [![Outlook](https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:divinoluizdev@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divino-luiz/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://divinoluiz.netlify.app/)
 
 ---
 
