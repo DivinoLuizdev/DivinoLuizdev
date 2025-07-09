@@ -39,19 +39,7 @@ Scrumban (Scrum + Kanban)
 
 ---
 
-## 💼 Experiência
-
-**🔹 Analista de RPA – Alianzo** *(Jul 2024 – Mar 2025)*  
-- Desenvolvimento de automações com **Python** e **Power Automate**  
-- Integração de sistemas, mapeamento de processos e suporte técnico  
-- Identificação de melhorias junto a clientes
-
-**🔸 Desenvolvedor RPA – IEL (Instituto Euvaldo Lodi - GO)** *(Jul 2022 – Jul 2024)*  
-- Desenvolvimento com **UiPath**  
-- Otimização de automações e arquitetura de fluxos complexos  
-- Atendimento direto ao cliente para levantamento de requisitos
-
----
+ 
 
 ## 🎓 Formação Acadêmica
 
